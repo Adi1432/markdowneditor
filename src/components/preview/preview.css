@@ -1,0 +1,11 @@
+.preview {
+  width: 50%;
+  height: 100%;
+  background-image: url("https://tse2.mm.bing.net/th?id=OIP.eU4zDRd72ycKmnDLU9TIKgHaH0&pid=Api&P=0");
+  display: flex;
+  flex-direction: column;
+  color: white;
+  background-size: cover;
+  padding: 15px;
+  border-left: 1px solid white;
+}

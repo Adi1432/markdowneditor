@@ -1,0 +1,9 @@
+.MdCon {
+  width: 75%;
+  height: 75%;
+  display: flex;
+  border-radius: 10px;
+  overflow: hidden;
+
+  box-shadow: 5px 5px 5px black;
+}
